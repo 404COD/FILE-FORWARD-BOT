@@ -1,4 +1,4 @@
-# Auto-File-Forward-Bot
+# File-Forward-Bot
 
 Auto file forward bot.
 Without Admin Permission in FROM_CHANNEL
