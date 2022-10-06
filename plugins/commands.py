@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) Dark Angel
+# (c) inbliz
 
 import os
 from config import Config
