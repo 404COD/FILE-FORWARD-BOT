@@ -16,7 +16,7 @@ Made with Python3
 
 Deploy in your vps
 ```sh
-git clone https://github.com/Jijinr/Frwdit
+git clone https://github.com/404COD/FILE-FORWARD-BOT
 cd Frwit
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
