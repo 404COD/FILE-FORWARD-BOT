@@ -7,16 +7,12 @@ Only Give Permission In your Telegram Personal Channel
 ```
 Please fork this repository don't import code
 Made with Python3
-(C) @DforDarkAngel
-Copyright permission under GNU GENERAL PUBLIC LICENSE
+(C) @iforinbliz
+©Copyright permission under GNU GENERAL PUBLIC LICENSE
 ```
 
 ### Deploy on Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/404COD/FILE-FORWARD-BOT)
-
-## HOW TO DEPLOY YOUTUBE TUTORIAL
-
-<a href="https://youtu.be/xufAzeTLRIs"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
 Deploy in your vps
 ```sh
@@ -40,8 +36,9 @@ python3 main.py
 * `SKIP_NO` Enter File Skiping Number default number '0' 
 * `SESSION` Enter Pyrogram session string [String Generator](https://replit.com/@JijinR/PyroSessionString)
 
-
+```
 ### Credits
 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
 * `Special Thanks Dump Group Members`🤣
+```
